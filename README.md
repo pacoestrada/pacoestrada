@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hola 👋, soy Paco Estrada!
 
-<!--
-**pacoestrada/pacoestrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un Desarrollador de Software apasionado por la resolución de problemas y el aprendizaje constante.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy formándome en Python y en ciberseguridad.
+- 🌱 Voy aprendiendo un poquito de  **Pyhon** y también de **Java**
+- 👯 Me encanta colaborar y el **FLOSS**
+- 📫 Cómo contactarme: **pacoestrada77@gmail.com**
+- 📄 Conoceme más https://www.linkedin.com/in/pacoestrada/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis estadísticas de GitHub
+
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=yourUsername&show_icons=true)
+
+
