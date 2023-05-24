@@ -15,8 +15,8 @@ Soy un Desarrollador de Software apasionado por la resolución de problemas y el
 [![GIT](https://img.shields.io/badge/Github-version%20control%20-lightgrey)]()
 .... y otras, que siemre me gusta curiosear......
 ## Contacto 
-- 📫 Cómo contactarme: **pacoestrada77@gmail.com**
-- 📄 **Conóceme más** : https://www.linkedin.com/in/pacoestrada/
+- 📫 Cómo contactarme: **pacoestrada77@gmail.com** **redaccion@compilando.audio**
+- 📄 **Conóceme más** : **https://www.linkedin.com/in/pacoestrada/**  - **https://www.mypublicinbox.com/PacoEstrada**
 
 
 
