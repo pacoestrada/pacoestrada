@@ -14,6 +14,9 @@ Soy un APRENDIZ de desarrollador de Software apasionado por la resolución de pr
 </br>
 [![GIT](https://img.shields.io/badge/Github-version%20control%20-lightgrey)]()
 .... y otras, que siemre me gusta curiosear......
+<picture>
+    <img alt="IBM Python for Data Science." src="https://compilando.audio/wp-content/uploads/2023/07/python-for-data-science.png">
+</picture>
 ## Contacto 
 - 📫 Cómo contactarme: **pacoestrada77@gmail.com** **redaccion@compilando.audio**
 - 📄 **Conóceme más** : **https://www.linkedin.com/in/pacoestrada/**  - **https://www.mypublicinbox.com/PacoEstrada**
