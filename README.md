@@ -22,6 +22,8 @@ Soy un APRENDIZ de desarrollador de Software apasionado por la resolución de pr
 </br>
 .... y otras que siempre me gusta curiosear...
 </br>
+
+
 # Contacto 
 - 📫 Cómo contactarme: **pacoestrada77@gmail.com** **redaccion@compilando.audio**
 - 📄 **Conóceme más** : **https://www.linkedin.com/in/pacoestrada/**  - **https://www.mypublicinbox.com/PacoEstrada**
