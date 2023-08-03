@@ -25,7 +25,7 @@ Soy un APRENDIZ de desarrollador de Software apasionado por la resolución de pr
 Y si quieres oir sobre FLOSS, produzco, para compartir, un podcast
 </br>
  <align = "center"><a href="https://www.compilando.audio">Compilando Podcast</a>.
- </p>
+ 
 <picture>
     <img alt="Compilando Podcast" src="https://compilando.audio/wp-content/uploads/2023/07/compilando80.jpg">    
 </picture>
