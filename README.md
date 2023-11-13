@@ -14,8 +14,8 @@ Soy un APRENDIZ de desarrollador de Software apasionado por la resolución de pr
 </br>
 [![GIT](https://img.shields.io/badge/Github-version%20control%20-lightgrey)]()
 </br>
-    [<img alt="IBM Python for Data Science." src="https://compilando.audio/wp-content/uploads/2023/07/python-for-data-science.png">]() 
-    [<img alt="IBM Open Source" src="https://compilando.audio/wp-content/uploads/2023/07/open-source-foundations-4.png">]()
+    [<img alt="IBM Python for Data Science." src="https://drive.google.com/file/d/1halspkQ0o-2ihorKYqvUrsbnWt_dLV4j/view?usp=drive_link">]() 
+    [<img alt="IBM Open Source" src="https://drive.google.com/file/d/1rNqPvDS4zLxAzmAb4tYIWjQAJFz-Fd-v/view?usp=drive_link">]()
   
   
 </br>
