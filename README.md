@@ -39,10 +39,84 @@ Proyecto de experimentación práctica con la creación y organización de instr
 
 ## Formación tecnológica
 
-Además de la práctica con proyectos reales, he realizado formación especializada de IBM en Python, ciencia de datos y fundamentos del software abierto.
+Mi formación combina programas universitarios, cursos profesionales y credenciales especializadas en ciberseguridad, redes, GNU/Linux, computación en la nube, transformación digital, software abierto y análisis de datos con Python.
 
-<img alt="IBM Python for Data Science" src="https://compilando.es/wp-content/uploads/2023/07/python-for-data-science.png">
-<img alt="IBM Open Source Foundations" src="https://compilando.es/wp-content/uploads/2023/07/open-source-foundations-4.png">
+<sub>Pulsa sobre cualquier diploma para abrirlo a mayor tamaño.</sub>
+
+### Ciberseguridad y redes
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="assets/formacion/ciberseguridad-uned.png"><img src="assets/formacion/ciberseguridad-uned.png" width="100%" alt="Diploma de Experto Profesional en Ciberseguridad de la UNED"></a><br>
+      <strong>Experto Profesional en Ciberseguridad</strong><br>
+      UNED · 15 ECTS / 375 horas · 2023
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="assets/formacion/protocolos-red-nebrija.png"><img src="assets/formacion/protocolos-red-nebrija.png" width="74%" alt="Diploma de Protocolos de red y tecnologías aplicadas a la ciberseguridad de la Universidad Nebrija"></a><br>
+      <strong>Protocolos de red y tecnologías aplicadas a la ciberseguridad</strong><br>
+      Universidad Nebrija · 25 horas / 1 ECTS · 2025
+    </td>
+  </tr>
+</table>
+
+### GNU/Linux y servicios en la nube
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="assets/formacion/introduccion-linux.png"><img src="assets/formacion/introduccion-linux.png" width="100%" alt="Certificado verificado de Introducción a Linux de The Linux Foundation y la Universitat Politècnica de València"></a><br>
+      <strong>LF-UPV-101x: Introducción a Linux</strong><br>
+      The Linux Foundation y Universitat Politècnica de València · edX · 2023
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="assets/formacion/fundamentos-aws.png"><img src="assets/formacion/fundamentos-aws.png" width="100%" alt="Certificado de Fundamentos de AWS Cloud Services"></a><br>
+      <strong>Fundamentos de AWS Cloud Services</strong><br>
+      LinkedIn Learning · 2024
+    </td>
+  </tr>
+</table>
+
+### Transformación digital, cloud y datos
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="assets/formacion/transformacion-digital-mit.png"><img src="assets/formacion/transformacion-digital-mit.png" width="100%" alt="Certificado de Transformación Digital de Santander Open Academy con contenidos de MIT Professional Education"></a><br>
+      <strong>Transformación Digital</strong><br>
+      Santander Open Academy · Contenidos de MIT Professional Education · 2025
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="assets/formacion/cloud-computing-eoi.png"><img src="assets/formacion/cloud-computing-eoi.png" width="100%" alt="Diploma del Curso de Cloud Computing de Google Actívate y EOI"></a><br>
+      <strong>Curso de Cloud Computing</strong><br>
+      Google Actívate y EOI · 40 horas · 2019
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <a href="assets/formacion/visualizacion-python-ucm.png"><img src="assets/formacion/visualizacion-python-ucm.png" width="72%" alt="Diploma de Visualización de datos con Python de la Universidad Complutense de Madrid"></a><br>
+      <strong>Visualización de datos con Python</strong><br>
+      Universidad Complutense de Madrid · 40 horas · 2023
+    </td>
+  </tr>
+</table>
+
+### Credenciales IBM
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://compilando.es/wp-content/uploads/2023/07/python-for-data-science.png" width="100%" alt="IBM Python for Data Science"><br>
+      <strong>Python for Data Science</strong><br>
+      IBM
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://compilando.es/wp-content/uploads/2023/07/open-source-foundations-4.png" width="100%" alt="IBM Open Source Foundations"><br>
+      <strong>Open Source Foundations</strong><br>
+      IBM
+    </td>
+  </tr>
+</table>
 
 ## Comunicación y comunidad
 
