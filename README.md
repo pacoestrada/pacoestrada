@@ -25,6 +25,10 @@ Produzco contenidos para radio y pódcast, colaboro con comunidades y eventos FL
 
 ## Proyectos destacados
 
+### [70 TV — Título Fusion retro para DaVinci Resolve 21](https://github.com/pacoestrada/70-tv-fusion-title)
+
+Título animado reutilizable con estética televisiva de los años setenta, distribuido como paquete `.drfx` instalable y macro `.setting` editable. Incluye controles desde el Inspector, documentación completa, código fuente, licencia MIT y validación automática con GitHub Actions.
+
 ### [Conversor de medios para DaVinci Resolve en Linux](https://github.com/pacoestrada/conversor-medios-davinci-linux)
 
 Aplicación gráfica en Bash y FFmpeg que convierte por lotes archivos MP4 a contenedor MOV. Mantiene el vídeo original sin recodificar y transforma el audio a PCM de 24 bits para facilitar la edición en DaVinci Resolve sobre Linux.
