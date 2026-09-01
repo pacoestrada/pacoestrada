@@ -25,6 +25,10 @@ Produzco contenidos para radio y pódcast, colaboro con comunidades y eventos FL
 
 ## Proyectos destacados
 
+### [Compliance Pulse — Radar de cumplimiento para pymes](https://github.com/pacoestrada/compliance-pulse)
+
+Aplicación web en beta que convierte señales públicas de privacidad, seguridad y transparencia en un scoring explicable, evidencias y una hoja de ruta priorizada. Combina análisis automático de URL con un diagnóstico guiado de 17 controles. **[Probar la demo en el navegador](https://pacoestrada.github.io/compliance-pulse/).**
+
 ### [70 TV — Título Fusion retro para DaVinci Resolve 21](https://github.com/pacoestrada/70-tv-fusion-title)
 
 Título animado reutilizable con estética televisiva de los años setenta, distribuido como paquete `.drfx` instalable y macro `.setting` editable. Incluye controles desde el Inspector, documentación completa, código fuente, licencia MIT y validación automática con GitHub Actions.
