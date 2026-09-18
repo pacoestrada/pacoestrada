@@ -25,9 +25,9 @@ Produzco contenidos para radio y pódcast, colaboro con comunidades y eventos FL
 
 ## Proyectos destacados
 
-### [Compliance Pulse — Radar de cumplimiento para pymes](https://github.com/pacoestrada/compliance-pulse)
+### [Galactic Crawl — Título Fusion de aventura espacial](https://github.com/pacoestrada/galactic-crawl-fusion-title)
 
-Aplicación web en beta que convierte señales públicas de privacidad, seguridad y transparencia en un scoring explicable, evidencias y una hoja de ruta priorizada. Combina análisis automático de URL con un diagnóstico guiado de 17 controles. **[Probar la demo en el navegador](https://pacoestrada.github.io/compliance-pulse/).**
+Título reutilizable para DaVinci Resolve 21 con texto que asciende en perspectiva sobre un fondo de estrellas editable. Se distribuye como paquete `.drfx` instalable y macro `.setting`, con controles desde el Inspector, documentación, licencia MIT y validación automática.
 
 ### [70 TV — Título Fusion retro para DaVinci Resolve 21](https://github.com/pacoestrada/70-tv-fusion-title)
 
@@ -37,13 +37,17 @@ Título animado reutilizable con estética televisiva de los años setenta, dist
 
 Aplicación gráfica en Bash y FFmpeg que convierte por lotes archivos MP4 a contenedor MOV. Mantiene el vídeo original sin recodificar y transforma el audio a PCM de 24 bits para facilitar la edición en DaVinci Resolve sobre Linux.
 
-### [OpenSouthCode 2023](https://github.com/pacoestrada/OSC2023)
+### [Compliance Pulse — Radar de cumplimiento para pymes](https://github.com/pacoestrada/compliance-pulse)
 
-Materiales para la producción de entrevistas a ponentes de OpenSouthCode 2023 en Málaga, junto con scripts en Python para analizar y representar los lenguajes y entornos de desarrollo utilizados.
+Aplicación web en beta que convierte señales públicas de privacidad, seguridad y transparencia en un scoring explicable, evidencias y una hoja de ruta priorizada. Combina análisis automático de URL con un diagnóstico guiado de 17 controles. **[Probar la demo en el navegador](https://pacoestrada.github.io/compliance-pulse/).**
 
 ### [Herramienta de Prompting](https://github.com/pacoestrada/HerramientaDePrompting)
 
 Proyecto de experimentación práctica con la creación y organización de instrucciones para herramientas de inteligencia artificial.
+
+### [OpenSouthCode 2023](https://github.com/pacoestrada/OSC2023)
+
+Materiales para la producción de entrevistas a ponentes de OpenSouthCode 2023 en Málaga, junto con scripts en Python para analizar y representar los lenguajes y entornos de desarrollo utilizados.
 
 ## Formación tecnológica
 
