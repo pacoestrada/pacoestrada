@@ -2,6 +2,11 @@
 
 ### Comunicación, audio, software libre y tecnología aplicada
 
+**Herramientas actuales**
+
+🎙️ [Atril Teleprónter](https://github.com/pacoestrada/atril-teleprompter) · 🎬 [Conversor de medios](https://github.com/pacoestrada/conversor-medios-davinci-linux)  
+📰 **Editor de noticias** (proyecto privado) · ✨ [Títulos y efectos para DaVinci](https://github.com/pacoestrada/dentro-del-texto-fusion)
+
 Cuento con más de 35 años de experiencia en producción sonora y locución. Actualmente aplico esa trayectoria al lugar donde se cruzan la comunicación, la divulgación tecnológica y el software libre.
 
 Produzco contenidos para radio y pódcast, colaboro con comunidades y eventos FLOSS y desarrollo pequeñas herramientas para resolver necesidades reales, especialmente en GNU/Linux.
