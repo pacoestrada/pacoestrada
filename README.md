@@ -6,6 +6,42 @@ Cuento con más de 35 años de experiencia en producción sonora y locución. Ac
 
 Produzco contenidos para radio y pódcast, colaboro con comunidades y eventos FLOSS y desarrollo pequeñas herramientas para resolver necesidades reales, especialmente en GNU/Linux.
 
+## Proyectos destacados
+
+Herramientas que nacen de mi trabajo en comunicación, producción audiovisual y publicación web.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🎙️ Atril Teleprónter</h3>
+<p>Teleprónter de escritorio para Linux, pensado para vídeos, locuciones y pódcast. Importa guiones ODT, DOCX y TXT; permite ajustar la lectura y manejarla con teclado y ratón.</p>
+<p><strong>Versión 1.0 · DEB y RPM · Python / PyQt5</strong></p>
+<p><a href="https://github.com/pacoestrada/atril-teleprompter">GitHub</a> · <a href="https://gitlab.com/PacoEstrada/atril-teleprompter">GitLab</a> · <a href="https://github.com/pacoestrada/atril-teleprompter/releases/tag/v1.0.0">Descargar</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>🎬 Conversor de medios</h3>
+<p>Prepara vídeos para editar en DaVinci Resolve y para publicar. Convierte MP4 a MOV con audio PCM, o MOV compatible a MP4 con AAC, conservando el vídeo sin recodificar y verificando el resultado.</p>
+<p><strong>Linux · DEB y RPM · FFmpeg / Bash / Python</strong></p>
+<p><a href="https://github.com/pacoestrada/conversor-medios-davinci-linux">GitHub</a> · <a href="https://gitlab.com/PacoEstrada/conversor-medios-davinci-linux">GitLab</a> · <a href="https://github.com/pacoestrada/conversor-medios-davinci-linux/releases/latest">Descargar</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📰 Editor de noticias</h3>
+<p>Herramienta de uso profesional para mantener la web estática de Quersystem. Reúne edición visual, imágenes, borradores, previsualización, publicación asistida y copias de seguridad.</p>
+<p><strong>Proyecto privado · Linux · Python</strong></p>
+<p>Presentado aquí como parte de mi trabajo en comunicación y automatización. El código y los materiales internos no son públicos.</p>
+</td>
+<td width="50%" valign="top">
+<h3>✨ Títulos y efectos para DaVinci Resolve</h3>
+<p>Recursos Fusion reutilizables, con controles editables y paquetes instalables <code>.drfx</code>.</p>
+<p><strong>Dentro del texto</strong> · El vídeo aparece dentro de las letras y el texto crece hasta revelar la escena.<br><a href="https://github.com/pacoestrada/dentro-del-texto-fusion">GitHub</a> · <a href="https://gitlab.com/PacoEstrada/dentro-del-texto-fusion">GitLab</a></p>
+<p><strong>Galactic Crawl</strong> · Texto en perspectiva y estrellas.<br><a href="https://github.com/pacoestrada/galactic-crawl-fusion-title">GitHub</a> · <a href="https://gitlab.com/PacoEstrada/galactic-crawl-fusion-title">GitLab</a></p>
+<p><strong>70 TV</strong> · Título animado de estética televisiva de los setenta.<br><a href="https://github.com/pacoestrada/70-tv-fusion-title">GitHub</a></p>
+</td>
+</tr>
+</table>
+
 ## Áreas de trabajo e interés
 
 - Producción sonora, locución, radio y pódcast.
@@ -23,33 +59,21 @@ Produzco contenidos para radio y pódcast, colaboro con comunidades y eventos FL
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
-## Proyectos destacados
+## Otros proyectos y aprendizaje
 
-### [Galactic Crawl — Título Fusion de aventura espacial](https://github.com/pacoestrada/galactic-crawl-fusion-title)
+<details>
+<summary>Ver proyectos anteriores, experimentación y materiales de comunidad</summary>
 
-Título reutilizable para DaVinci Resolve 21 con texto que asciende en perspectiva sobre un fondo de estrellas editable. Se distribuye como paquete `.drfx` instalable y macro `.setting`, con controles desde el Inspector, documentación, licencia MIT y validación automática.
+- [Compliance Pulse](https://github.com/pacoestrada/compliance-pulse) · Radar de cumplimiento para pymes en fase beta, con diagnóstico guiado y una [demo web](https://pacoestrada.github.io/compliance-pulse/).
+- [Herramienta de Prompting](https://github.com/pacoestrada/HerramientaDePrompting) · Experimentación con la creación y organización de instrucciones para herramientas de inteligencia artificial.
+- [OpenSouthCode 2023](https://github.com/pacoestrada/OSC2023) · Materiales de entrevistas y scripts de análisis para el encuentro de Málaga.
 
-### [70 TV — Título Fusion retro para DaVinci Resolve 21](https://github.com/pacoestrada/70-tv-fusion-title)
-
-Título animado reutilizable con estética televisiva de los años setenta, distribuido como paquete `.drfx` instalable y macro `.setting` editable. Incluye controles desde el Inspector, documentación completa, código fuente, licencia MIT y validación automática con GitHub Actions.
-
-### [Conversor de medios para DaVinci Resolve en Linux](https://github.com/pacoestrada/conversor-medios-davinci-linux)
-
-Aplicación gráfica en Bash y FFmpeg que convierte por lotes archivos MP4 a contenedor MOV. Mantiene el vídeo original sin recodificar y transforma el audio a PCM de 24 bits para facilitar la edición en DaVinci Resolve sobre Linux.
-
-### [Compliance Pulse — Radar de cumplimiento para pymes](https://github.com/pacoestrada/compliance-pulse)
-
-Aplicación web en beta que convierte señales públicas de privacidad, seguridad y transparencia en un scoring explicable, evidencias y una hoja de ruta priorizada. Combina análisis automático de URL con un diagnóstico guiado de 17 controles. **[Probar la demo en el navegador](https://pacoestrada.github.io/compliance-pulse/).**
-
-### [Herramienta de Prompting](https://github.com/pacoestrada/HerramientaDePrompting)
-
-Proyecto de experimentación práctica con la creación y organización de instrucciones para herramientas de inteligencia artificial.
-
-### [OpenSouthCode 2023](https://github.com/pacoestrada/OSC2023)
-
-Materiales para la producción de entrevistas a ponentes de OpenSouthCode 2023 en Málaga, junto con scripts en Python para analizar y representar los lenguajes y entornos de desarrollo utilizados.
+</details>
 
 ## Formación tecnológica
+
+<details>
+<summary>Ver formación y acreditaciones</summary>
 
 Mi formación combina programas universitarios, cursos profesionales y credenciales especializadas en ciberseguridad, redes, GNU/Linux, computación en la nube, transformación digital, software abierto y análisis de datos con Python.
 
@@ -130,6 +154,8 @@ Mi formación combina programas universitarios, cursos profesionales y credencia
   </tr>
 </table>
 
+</details>
+
 ## Comunicación y comunidad
 
 Produzco [Compilando Podcast](https://compilando.es), un espacio dedicado a GNU/Linux, el software libre y la cultura abierta.
@@ -141,3 +167,4 @@ También he participado en iniciativas y eventos tecnológicos como OpenSouthCod
 - [Compilando Podcast](https://compilando.es)
 - [LinkedIn](https://www.linkedin.com/in/pacoestrada/)
 - [MyPublicInbox](https://www.mypublicinbox.com/PacoEstrada)
+
