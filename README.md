@@ -19,9 +19,9 @@ Herramientas que nacen de mi trabajo en comunicación, producción audiovisual y
 <tr>
 <td width="50%" valign="top">
 <h3>🎙️ Atril Teleprónter</h3>
-<p>Teleprónter de escritorio para Linux, pensado para vídeos, locuciones y pódcast. Importa guiones ODT, DOCX y TXT; permite ajustar la lectura y manejarla con teclado y ratón.</p>
-<p><strong>Versión 1.0 · DEB y RPM · Python / PyQt5</strong></p>
-<p><a href="https://github.com/pacoestrada/atril-teleprompter">GitHub</a> · <a href="https://gitlab.com/PacoEstrada/atril-teleprompter">GitLab</a> · <a href="https://github.com/pacoestrada/atril-teleprompter/releases/tag/v1.0.0">Descargar</a></p>
+<p>Teleprónter de escritorio para Linux, pensado para vídeos, locuciones y pódcast. Importa guiones ODT, DOCX y TXT y permite leer y grabar la voz en la misma aplicación, con exportación a WAV, FLAC y MP3.</p>
+<p><strong>Grabación de voz · DEB, RPM y Arch · Python / PyQt5</strong></p>
+<p><a href="https://github.com/pacoestrada/atril-teleprompter">GitHub</a> · <a href="https://gitlab.com/PacoEstrada/atril-teleprompter">GitLab</a> · <a href="https://github.com/pacoestrada/atril-teleprompter/releases/latest">Descargar</a></p>
 </td>
 <td width="50%" valign="top">
 <h3>🎬 Conversor de medios</h3>
