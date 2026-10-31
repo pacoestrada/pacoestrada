@@ -4,6 +4,8 @@
 
 **Herramientas actuales**
 
+📸 [CapturFácil](https://github.com/pacoestrada/capturfacil) · Capturas y anotaciones para GNOME
+
 🎙️ [Atril Teleprónter](https://github.com/pacoestrada/atril-teleprompter) · 🎬 [Conversor de medios](https://github.com/pacoestrada/conversor-medios-davinci-linux)  
 📰 **Editor de noticias** (proyecto privado) · ✨ [Títulos y efectos para DaVinci](https://github.com/pacoestrada/dentro-del-texto-fusion)
 
@@ -16,6 +18,14 @@ Produzco contenidos para radio y pódcast, colaboro con comunidades y eventos FL
 Herramientas que nacen de mi trabajo en comunicación, producción audiovisual y publicación web.
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+<h3>📸 CapturFácil</h3>
+<p>Captura una pantalla, una ventana o un área, añade flechas, texto y formas ajustables y guarda en PNG. Integración con Impr Pant, aparición en Recientes y opción de volver al capturador de GNOME.</p>
+<p><strong>Versión 1.1.0 · GNOME sobre X11 · DEB · Python / GTK 3</strong></p>
+<p><a href="https://github.com/pacoestrada/capturfacil">GitHub</a> · <a href="https://gitlab.com/PacoEstrada/capturfacil">GitLab</a> · <a href="https://github.com/pacoestrada/capturfacil/releases/latest">Descargar</a></p>
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <h3>🎙️ Atril Teleprónter</h3>
@@ -33,7 +43,7 @@ Herramientas que nacen de mi trabajo en comunicación, producción audiovisual y
 <tr>
 <td width="50%" valign="top">
 <h3>📰 Editor de noticias</h3>
-<p>Herramienta de uso profesional para mantener la web estática de Quersystem. Reúne edición visual, imágenes, borradores, previsualización, publicación asistida y copias de seguridad.</p>
+<p>Herramienta de uso profesional para mantener una web estática. Reúne edición visual, imágenes, borradores, previsualización, publicación asistida y copias de seguridad.</p>
 <p><strong>Proyecto privado · Linux · Python</strong></p>
 <p>Presentado aquí como parte de mi trabajo en comunicación y automatización. El código y los materiales internos no son públicos.</p>
 </td>
