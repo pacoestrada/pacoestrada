@@ -50,6 +50,7 @@ Herramientas que nacen de mi trabajo en comunicación, producción audiovisual y
 <td width="50%" valign="top">
 <h3>✨ Títulos y efectos para DaVinci Resolve</h3>
 <p>Recursos Fusion reutilizables, con controles editables y paquetes instalables <code>.drfx</code>.</p>
+<p><strong>Anotaciones para DaVinci · Paco Estrada</strong> · 27 títulos y 3 efectos para señalar elementos, tapar datos y desenfocar zonas.<br><a href="https://github.com/pacoestrada/pacoestrada/tree/main/davinci/anotaciones">Guía y catálogo</a> · <a href="https://raw.githubusercontent.com/pacoestrada/pacoestrada/main/davinci/anotaciones/Anotaciones_DaVinci_Paco_Estrada_1.1.0.drfx">Descargar v1.1.0 (.drfx)</a></p>
 <p><strong>Dentro del texto</strong> · El vídeo aparece dentro de las letras y el texto crece hasta revelar la escena.<br><a href="https://github.com/pacoestrada/dentro-del-texto-fusion">GitHub</a> · <a href="https://gitlab.com/PacoEstrada/dentro-del-texto-fusion">GitLab</a></p>
 <p><strong>Galactic Crawl</strong> · Texto en perspectiva y estrellas.<br><a href="https://github.com/pacoestrada/galactic-crawl-fusion-title">GitHub</a> · <a href="https://gitlab.com/PacoEstrada/galactic-crawl-fusion-title">GitLab</a></p>
 <p><strong>70 TV</strong> · Título animado de estética televisiva de los setenta.<br><a href="https://github.com/pacoestrada/70-tv-fusion-title">GitHub</a></p>
