@@ -4,6 +4,8 @@
 
 **Herramientas actuales**
 
+🎛️ [Compilando Studio](https://github.com/pacoestrada/compilando-studio) · Edición de pódcast con alma de radio · GNU/Linux y Windows
+
 📸 [CapturFácil](https://github.com/pacoestrada/capturfacil) · Capturas y anotaciones para GNOME
 
 🎙️ [Atril Teleprónter](https://github.com/pacoestrada/atril-teleprompter) · 🎬 [Conversor de medios](https://github.com/pacoestrada/conversor-medios-davinci-linux)  
@@ -18,6 +20,18 @@ Produzco contenidos para radio y pódcast, colaboro con comunidades y eventos FL
 Herramientas que nacen de mi trabajo en comunicación, producción audiovisual y publicación web.
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+<h3>🎛️ Compilando Studio · Radio Edition</h3>
+<p><strong>Edición de pódcast con alma de radio.</strong> Una herramienta nacida del trabajo con Compilando Podcast, con una interfaz inspirada en las mesas de radio clásicas.</p>
+<p>Marca un punto en la voz y elige una música: la aplicación abre el hueco, deja por defecto cinco segundos de música sola y, al volver la voz, baja la música durante otros cinco segundos hasta el nivel de fondo. Ambos tiempos son ajustables.</p>
+<p>Importación de voz desde el teleprónter · Edición de clips · Atajos de teclado · Vúmetro digital y máster · Exportación MP3, WAV y FLAC.</p>
+<p><a href="https://github.com/pacoestrada/compilando-studio"><img src="https://raw.githubusercontent.com/pacoestrada/compilando-studio/v0.1.2/docs/compilando-studio.png" width="100%" alt="Compilando Studio: pistas de voz y música, cortes musicales y controles de mezcla"></a></p>
+<p><strong>v0.1.2 · Primera versión funcional en desarrollo · GNU/Linux y Windows · Software libre, GPL-3.0-or-later</strong></p>
+<p>Disponible en DEB, RPM, RUN y EXE. El lanzador RUN requiere dependencias instaladas. Quedan pruebas de uso y mejoras: las incidencias, ideas y contribuciones son bienvenidas.</p>
+<p><a href="https://github.com/pacoestrada/compilando-studio">Código en GitHub</a> · <a href="https://gitlab.com/PacoEstrada/compilando-studio">Código en GitLab</a> · <a href="https://github.com/pacoestrada/compilando-studio/releases/tag/v0.1.2">Descargas GitHub</a> · <a href="https://gitlab.com/PacoEstrada/compilando-studio/-/releases/v0.1.2">Descargas GitLab</a></p>
+</td>
+</tr>
 <tr>
 <td colspan="2" valign="top">
 <h3>📸 CapturFácil</h3>
